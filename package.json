@@ -1,7 +1,7 @@
 {
-  "name": "mobile",
+  "name": "imagesha",
   "version": "1.0.0",
-  "description": "",
+  "description": "image  sharing application",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
